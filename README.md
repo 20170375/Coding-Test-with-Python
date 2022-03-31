@@ -6,4 +6,4 @@
 
 ## Source
 + [GitHub 저장소](https://github.com/ndb796/python-for-coding-test)
-+ [YouTube 강좌동영상](https://www.youtube.com/playlist?list=PLRx0vPvlEmdAghTr5mXQxGpHjWqSz0dgC)
++ [YouTube 강좌동영상](https://www.youtube.com/playlist?list=PLVsNizTWUw7H9_of5YCB0FmsSc-K44y81)
